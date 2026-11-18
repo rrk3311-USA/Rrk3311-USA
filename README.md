@@ -1,16 +1,20 @@
-## Hi there 👋
+Raphael
 
-<!--
-**rrk3311-USA/Rrk3311-USA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in the intersection of business, technology, and AI.
 
-Here are some ideas to get you started:
+Most of my experience comes from building and growing businesses. Lately, I’ve been spending more time building software, experimenting with AI tools, and figuring out how technology can solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m working with
+
+* AI-assisted development (Cursor)
+* React, Next.js, TypeScript
+* APIs and automation
+* E-commerce and product development
+* Business process optimization
+
+Projects
+
+* AgentKammer — Building a technology-driven real estate platform.
+* Lead Processing Agent — Exploring AI-powered lead workflows.
+
+I’m always learning by building and testing things.
